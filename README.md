@@ -1,4 +1,1 @@
-# Larry Portocarrero - Curriculum vitae
-
-[Hoja de vida](https://larry852.github.io/larry/)
-
+# [Larry Portocarrero - Curriculum vitae](https://larry852.github.io/cv/)
